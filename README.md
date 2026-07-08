@@ -18,11 +18,8 @@
 
 <img src="divider.png" width="100%" height="3"/>
 - 🎓 Aspiring Software Engineer with a focus on **AI/ML**
-- 
 - 🌱 Currently deepening my skills in machine learning and full‑stack development
-- 
 - 💡 Interested in building practical, real‑world software solutions
-- 
 - 📫 Reach me at **naikmohan2004@gmail.com**
 
 ### 🛠️ Skills
