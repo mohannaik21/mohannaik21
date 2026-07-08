@@ -23,7 +23,7 @@
 - 📫 Reach me at **naikmohan2004@gmail.com**
 
 ### 🛠️ Skills
-<img src="divider.png" width="100%" height="4"/>
+<img src="divider.png" width="100%" height="2"/>
 
 **Programming Languages**
 
