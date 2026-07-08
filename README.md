@@ -28,15 +28,38 @@
 - 🌱 Currently deepening my skills in machine learning and full‑stack development
 - 💡 Interested in building practical, real‑world software solutions
 - 📫 Reach me at **naikmohan2004@gmail.com**
+
 <br/>
 
 ## 🛠️ Skills
 
+**Programming Languages**
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basics-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+**AI Skills**
+
+<div align="center">
+
+![GenAI](https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+
+</div>
+
+**Other Skills**
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
 </div>
 
 <br/>
