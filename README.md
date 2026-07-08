@@ -15,7 +15,7 @@
 </div>
 
 ### 🧑‍💻 About Me
-<img src="divider.png" width="100%" height="4"/>
+<img src="divider.png" width="100%" height="3"/>
 
 - 🎓 Aspiring Software Engineer with a focus on **AI/ML**
 - 🌱 Currently deepening my skills in machine learning and full‑stack development
@@ -23,7 +23,7 @@
 - 📫 Reach me at **naikmohan2004@gmail.com**
 
 ### 🛠️ Skills
-<img src="divider.png" width="100%" height="2"/>
+<img src="divider.png" width="100%" height="3"/>
 
 **Programming Languages**
 
@@ -55,7 +55,7 @@
 </div>
 
 ### 📊 GitHub Stats
-<img src="divider.png" width="100%" height="4"/>
+<img src="divider.png" width="100%" height="3"/>
 
 <div align="center">
 
