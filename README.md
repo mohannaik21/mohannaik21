@@ -55,7 +55,7 @@
 </div>
 
 ### 📊 GitHub Stats
-<img src="divider.png" width="100%" height="3"/>
+<img src="divider.png" width="100%" height="4"/>
 
 <div align="center">
 
